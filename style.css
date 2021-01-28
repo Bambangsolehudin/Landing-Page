@@ -207,6 +207,21 @@ hr{
           max-width: 100%;
         }
 
+        .page-login {
+            height: 100vh;
+            font-family: 'Playfair Display';
+          }
+          
+          .page-login .btn-login {
+            background-color: #6495ED;
+            color: #fff;
+          }
+          
+          .page-login .btn-login:hover {
+            background-color: #00008B;
+            color: #fff;
+          }
+
 /* DEKSTOP VERSION */
 @media (min-width: 992px) { 
 
